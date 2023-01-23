@@ -2,6 +2,7 @@
 
 int main()
 {
+    printf("This is binary truth table program");
     int i,j,k;
     
     //Not table
