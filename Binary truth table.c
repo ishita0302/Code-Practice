@@ -3,6 +3,7 @@
 int main()
 {
     printf("This is binary truth table program");
+    printf("Let's get started");
     int i,j,k;
     
     //Not table
