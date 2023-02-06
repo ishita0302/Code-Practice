@@ -4,7 +4,7 @@
 int main()
 {
     int n,m,e,d,p,c=0,s=0,r1=0,r2=0,f=0;
-    printf("enter a number: ");
+    printf("enter a number:");
     scanf("%d", &n);
     
     //palindrome
@@ -20,7 +20,7 @@ int main()
     else
         printf("\nNumber is not palindrome.");
     
-    //armstrong
+    //armstrong 
     p=m;
     while(m>0)
     {
