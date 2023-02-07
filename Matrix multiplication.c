@@ -33,7 +33,7 @@ int main()
     printf("\n enter no. of columns in B: ");
     scanf("%d", &c2);
     
-    printf("\n enter elements of B: ");
+    printf("\nenter elements of B: ");
     for(i=0;i<r2;i++)
     {   
         for(j=0;j<c2;j++)
