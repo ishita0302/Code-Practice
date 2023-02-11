@@ -15,6 +15,7 @@ char pop()
         return -1;
     else
         return stack[top--];
+        
 }
 
 int priority(char x)
